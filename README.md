@@ -1,4 +1,4 @@
-# passport-template
+# passport-template-ejs
 
 This is a simple passport template that is able to register new users, log them in, and log them out. This template uses ejs as it's templating engine which diplays the users name when logged in and displays any error messages that a user can recieve when trying to log in with an incorrect password or an email that doesn't exist. There is no database being connected to as this requires additional setup and configuration. This project is meant to be used as a starting point for using passport with whatever database you want.
 
